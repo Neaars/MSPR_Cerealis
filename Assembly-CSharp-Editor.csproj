@@ -70,9 +70,6 @@
  <Reference Include="Assembly-UnityScript-Editor-firstpass">
  <HintPath>D:/Users/clo19/Documents/cours EPSI I5/Virtual reality/AR_coloring_page/AR_coloring_page/Library/ScriptAssemblies/Assembly-UnityScript-Editor-firstpass.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>D:/Program Files/Unity_5.2.4f1/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>D:/Program Files/Unity_5.2.4f1/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -87,9 +84,6 @@
  </Reference>
  <Reference Include="UnityEditor.Networking">
  <HintPath>D:/Program Files/Unity_5.2.4f1/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>D:/Program Files/Unity_5.2.4f1/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions.Editor">
  <HintPath>D:/Users/clo19/Documents/cours EPSI I5/Virtual reality/AR_coloring_page/AR_coloring_page/Assets/Vuforia/Editor/Scripts/Vuforia.UnityExtensions.Editor.dll</HintPath>
